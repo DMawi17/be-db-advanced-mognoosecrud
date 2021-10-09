@@ -1,0 +1,17 @@
+{
+  "name": "be-db-advanced-mognoosecrud-DMawi17",
+  "version": "2.0.0",
+  "description": "Mongoose CRUD operation practice 2nd edition",
+  "main": "server.js",
+  "repository": "git@github.com:FbW-E01/be-db-advanced-mognoosecrud-DMawi17.git",
+  "author": "DMawi17 <75326045+DMawi17@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.9"
+  }
+}
